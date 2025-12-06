@@ -929,7 +929,7 @@ const deployedContracts = {
   },
   11155111: {
     ERC7984Example: {
-      address: "0x68f32fA079C1f04cE6881dC8605C07425Bf4E1D3",
+      address: "0x803d7ADD44B238F40106B1C4439ecAcd05910dc7",
       abi: [
         {
           inputs: [
@@ -1806,7 +1806,7 @@ const deployedContracts = {
       deployedOnBlock: 9516244,
     },
     Airdrop: {
-      address: "0x7055623D538B2103cf17Dd8731ee0231D9ccB45c",
+      address: "0xA07a8cd761401cA9036622f85903c01394175fD8",
       abi: [
         {
           type: "function",
